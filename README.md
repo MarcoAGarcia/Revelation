@@ -1,2 +1,2 @@
 # Revelation
-ASP.NET core backend, MS SQL Server database and Android frontend for a personal and family (or office group) finanance management system that does not require special bank account afiliations
+ASP.NET core backend, MS SQL Server database and Android frontend for a personal and family (or office group) finanance management system that does not require special bank account afiliations. Backend is written in C#, has most basic functions to communicate with frontend. Database is developed in SQL server, can be easily ported to other servers, since it does not use stored procedures and it's embeded in the backend using EF code first approach. Android interface has not been developed yet, expecting to attaract an android developer to create the interface.
